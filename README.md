@@ -13,6 +13,6 @@ Este repositorio contiene resueltos de las guías (próximamente), parciales y f
 
 - `/Guías - Resueltas`: enunciados y guías resueltas escaneadas.
 - `/Parciales Resueltos`: enunciados + resueltos de parciales.
-- `/Parciales Resueltos`: enunciados + resueltos de finales (próximamente).
+- `/Finales Resueltos`: enunciados + resueltos de finales (próximamente).
 - `/Trabajo Práctico`: trabajo práctico grupal con temas de la 2° parte de la materia.
 
