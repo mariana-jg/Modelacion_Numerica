@@ -1,5 +1,4 @@
-# ModelacionNumericaCavaliere
-## Modelación Numérica - Cátedra Cavaliere 
+# Modelación Numérica - Cátedra Cavaliere 
 Curso de la Práctica: Martes 19 a 22 (no toma lista)
 
 ### Cuatrimestre de Cursada
